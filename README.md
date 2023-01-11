@@ -1,8 +1,8 @@
 
-# 👋 Hi guys!
-## My name is Mauro Luiz Zani Filho and my nickname is "Mauro-Filho"!
+#                    👋 Hi guys!
+## I'm Mauro, a full-stack web developer 👨‍💻 from Brazil
 
-I'm Mauro, a full-stack web developer 👨‍💻 from Brazil
+
 <!--
 **Mauro-Filho/Mauro-Filho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
