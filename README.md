@@ -1,5 +1,5 @@
 
-############################# 👋 Hi guys!
+# 👋 Hi guys!
 ## My name is Mauro Luiz Zani Filho and my nickname is "Mauro-Filho"!
 
 I'm Mauro, a full-stack web developer 👨‍💻 from Brazil
