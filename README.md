@@ -24,12 +24,15 @@ Contatos:
 <div> 
   <a href = "mailto:maurofilho.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mauro-filho-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://github.com/anuraghazra">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 </div>
 <div>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <a href="https://github.com/Mauro-Filho">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauro-Filho&layout=compact&langs_count=7&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauro-Filho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   </a>
+   
    </div>
