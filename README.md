@@ -1,6 +1,6 @@
 <div align="center">
 
-    👋 Hi guys! I'm Mauro, a full-stack web developer 👨‍💻 from Brazil
+   ## 👋 Hi guys! I'm Mauro, a full-stack web developer 👨‍💻 from Brazil
 
     ## Ferramentas e Tecnologias
     <div style="display: inline_block"><br>
